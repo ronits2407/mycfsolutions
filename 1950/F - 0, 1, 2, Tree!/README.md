@@ -1,0 +1,27 @@
+<h2><a href="https://codeforces.com/contest/1950/problem/F" target="_blank" rel="noopener noreferrer">1950F — 0, 1, 2, Tree!</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 1700 |
+| **Language** | C++23 (GCC 14-64, msys2) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 1950F](https://codeforces.com/contest/1950/problem/F) |
+
+## Topics
+`bitmasks` `brute force` `greedy` `implementation` `trees`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">F. 0, 1, 2, Tree!</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>Find the minimum height of a rooted tree$$$^{\dagger}$$$ with $$$a+b+c$$$ vertices that satisfies the following conditions: </p><ul> <li> $$$a$$$ vertices have exactly $$$2$$$ children, </li><li> $$$b$$$ vertices have exactly $$$1$$$ child, and </li><li> $$$c$$$ vertices have exactly $$$0$$$ children. </li></ul> If no such tree exists, you should report it.<center> <img class="tex-graphics" src="https://espresso.codeforces.com/0b21dc8f0d402505d1e767724cb49fe9cbea0be5.png" style="zoom: 100.0%;max-width: 100.0%;max-height: 100.0%;"><p><span class="tex-font-size-small">The tree above is rooted at the top vertex, and each vertex is labeled with the number of children it has. Here $$$a=2$$$, $$$b=1$$$, $$$c=3$$$, and the height is $$$2$$$.</span> </p></center><p>$$$^{\dagger}$$$ A <span class="tex-font-style-it">rooted tree</span> is a connected graph without cycles, with a special vertex called the <span class="tex-font-style-it">root</span>. In a rooted tree, among any two vertices connected by an edge, one vertex is a parent (the one closer to the root), and the other one is a child. </p><p>The <span class="tex-font-style-it">distance</span> between two vertices in a tree is the number of edges in the shortest path between them. The <span class="tex-font-style-it">height</span> of a rooted tree is the maximum distance from a vertex to the root.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line contains an integer $$$t$$$ ($$$1 \leq t \leq 10^4$$$) — the number of test cases.</p><p>The only line of each test case contains three integers $$$a$$$, $$$b$$$, and $$$c$$$ ($$$0 \leq a, b, c \leq 10^5$$$; $$$1 \leq a + b + c$$$).</p><p>The sum of $$$a + b + c$$$ over all test cases does not exceed $$$3 \cdot 10^5$$$.</p></div><div class="output-specification"><div class="section-title">Output</div><p>For each test case, if no such tree exists, output $$$-1$$$. Otherwise, output one integer — the minimum height of a tree satisfying the conditions in the statement.</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0049232668615800645" id="id0022931999688691762" class="input-output-copier">Copy</div></div><pre id="id0049232668615800645"><div class="test-example-line test-example-line-even test-example-line-0">10</div><div class="test-example-line test-example-line-odd test-example-line-1">2 1 3</div><div class="test-example-line test-example-line-even test-example-line-2">0 0 1</div><div class="test-example-line test-example-line-odd test-example-line-3">0 1 1</div><div class="test-example-line test-example-line-even test-example-line-4">1 0 2</div><div class="test-example-line test-example-line-odd test-example-line-5">1 1 3</div><div class="test-example-line test-example-line-even test-example-line-6">3 1 4</div><div class="test-example-line test-example-line-odd test-example-line-7">8 17 9</div><div class="test-example-line test-example-line-even test-example-line-8">24 36 48</div><div class="test-example-line test-example-line-odd test-example-line-9">1 0 0</div><div class="test-example-line test-example-line-even test-example-line-10">0 3 1</div></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id002827983548668783" id="id009299979351570874" class="input-output-copier">Copy</div></div><pre id="id002827983548668783">2
+0
+1
+1
+-1
+3
+6
+-1
+-1
+3
+</pre></div></div></div><div class="note"><div class="section-title">Note</div><p>The first test case is pictured in the statement. It can be proven that you can't get a height smaller than $$$2$$$.</p><p>In the second test case, you can form a tree with a single vertex and no edges. It has height $$$0$$$, which is clearly optimal.</p><p>In the third test case, you can form a tree with two vertices joined by a single edge. It has height $$$1$$$, which is clearly optimal.</p></div>
