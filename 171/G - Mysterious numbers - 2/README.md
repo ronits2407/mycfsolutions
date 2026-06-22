@@ -1,0 +1,17 @@
+<h2><a href="https://codeforces.com/contest/171/problem/G" target="_blank" rel="noopener noreferrer">171G — Mysterious numbers - 2</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 1600 |
+| **Language** | C++23 (GCC 14-64, msys2) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 171G](https://codeforces.com/contest/171/problem/G) |
+
+## Topics
+`*special`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">G. Mysterious numbers - 2</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard" style="font-weight: bold"><div class="property-title">input</div>stdin</div><div class="output-file output-standard" style="font-weight: bold"><div class="property-title">output</div>stdout</div></div><div></div><div class="input-specification"><div class="section-title">Input</div><p>The only line of input contains three integers <span class="tex-span"><i>a</i><sub class="lower-index">1</sub>, <i>a</i><sub class="lower-index">2</sub>, <i>a</i><sub class="lower-index">3</sub></span> (<span class="tex-span">1 ≤ <i>a</i><sub class="lower-index">1</sub>, <i>a</i><sub class="lower-index">2</sub>, <i>a</i><sub class="lower-index">3</sub> ≤ 20</span>), separated by spaces.</p></div><div class="output-specification"><div class="section-title">Output</div><p>Output a single integer.</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id007664379313112074" id="id009348297271640841" class="input-output-copier">Copy</div></div><pre id="id007664379313112074">2 3 2<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id00470636167971055" id="id008501481639549868" class="input-output-copier">Copy</div></div><pre id="id00470636167971055">5<br></pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id003582513319369627" id="id008961413377933768" class="input-output-copier">Copy</div></div><pre id="id003582513319369627">13 14 1<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id006944359056999317" id="id000960319434687047" class="input-output-copier">Copy</div></div><pre id="id006944359056999317">14<br></pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id004129858002831097" id="id00025651957208725595" class="input-output-copier">Copy</div></div><pre id="id004129858002831097">14 5 9<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id00279492872615524" id="id001581946497297101" class="input-output-copier">Copy</div></div><pre id="id00279492872615524">464<br></pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id009445916185474706" id="id00360396658387399" class="input-output-copier">Copy</div></div><pre id="id009445916185474706">17 18 3<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id009749985378639633" id="id009769553617461173" class="input-output-copier">Copy</div></div><pre id="id009749985378639633">53<br></pre></div></div></div>
