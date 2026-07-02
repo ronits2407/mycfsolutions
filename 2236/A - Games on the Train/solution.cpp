@@ -49,6 +49,9 @@ void solve_ronit(int tc)
     for (auto &&x : a)
     {
         ans = max(ans, val-x);
+        
+        
+        
     }
     
     cout << ans + 1<< endl;
