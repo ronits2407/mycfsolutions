@@ -43,11 +43,11 @@ void solve_ronit(int tc)
     
     
     ask(a);
+    
+    
+    
     int val = *max_element(all(a));
     int ans = 0;
-    
-    
-    
     
     for (auto &&x : a)
     {
