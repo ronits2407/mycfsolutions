@@ -177,13 +177,14 @@ void solve_ronit(int tc) {
         occupied = update;
     }
     
+    
+    
     cout << *max_element(all(occupied)) << endl;
     
 }
  
 int32_t main() {
     boost_ronit;
-    
     cout << fixed << setprecision(20);
  
     int t = 1;
