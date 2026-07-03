@@ -42,6 +42,7 @@ void solve_ronit(int tc)
     vi a(n);
     ask(a);
     int val = *max_element(all(a));
+    
     int ans = 0;
     for (auto &&x : a)
     {
@@ -55,7 +56,6 @@ int32_t main()
 {
     cout << fixed << setprecision(20);
     int t;
-    
     cin >> t;
     for (int i = 1; i <= t; i++)
         solve_ronit(i);
