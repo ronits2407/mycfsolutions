@@ -51,6 +51,10 @@ void solve_ronit(int tc)
     
 }
  
+ 
+ 
+ 
+ 
 int32_t main()
 {
     cout << fixed << setprecision(20);
@@ -59,7 +63,4 @@ int32_t main()
     for (int i = 1; i <= t; i++)
         solve_ronit(i);
     return 0;
-    
-    
-    
 }
