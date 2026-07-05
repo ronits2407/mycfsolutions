@@ -7,7 +7,12 @@ int main()
     scanf("%d", &n);
     scanf("%d", &k);
     
+    
+    
+    
     int scores[n];
+    
+    
     
     
  
