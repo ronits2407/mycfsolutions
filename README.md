@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 340 | 32 |
+| 341 | 32 |
 
 ---
 
@@ -14,13 +14,13 @@
 
 - [*special](#special) (10)
 - [Uncategorized](#uncategorized) (3)
-- [binary search](#binary-search) (49)
+- [binary search](#binary-search) (50)
 - [bitmasks](#bitmasks) (25)
 - [brute force](#brute-force) (70)
 - [combinatorics](#combinatorics) (9)
 - [communication](#communication) (3)
 - [constructive algorithms](#constructive-algorithms) (77)
-- [data structures](#data-structures) (37)
+- [data structures](#data-structures) (38)
 - [dfs and similar](#dfs-and-similar) (12)
 - [divide and conquer](#divide-and-conquer) (4)
 - [dp](#dp) (50)
@@ -32,7 +32,7 @@
 - [graphs](#graphs) (10)
 - [greedy](#greedy) (151)
 - [hashing](#hashing) (4)
-- [implementation](#implementation) (112)
+- [implementation](#implementation) (113)
 - [interactive](#interactive) (7)
 - [math](#math) (128)
 - [matrices](#matrices) (1)
@@ -79,6 +79,7 @@
 | 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.cpp) |
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/706/B%20-%20Interesting%20drink/solution.cpp) |
 | 743B | [Chloe and the sequence ](https://codeforces.com/contest/743/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/743/B%20-%20Chloe%20and%20the%20sequence%20/solution.cpp) |
+| 816B | [Karen and Coffee](https://codeforces.com/contest/816/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/816/B%20-%20Karen%20and%20Coffee/solution.cpp) |
 | 991C | [Candies](https://codeforces.com/contest/991/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/991/C%20-%20Candies/solution.cpp) |
 | 1201C | [Maximum Median](https://codeforces.com/contest/1201/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1201/C%20-%20Maximum%20Median/solution.cpp) |
 | 1335C | [Two Teams Composing](https://codeforces.com/contest/1335/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1335/C%20-%20Two%20Teams%20Composing/solution.cpp) |
@@ -341,6 +342,7 @@
 | 276C | [Little Girl and Maximum Sum](https://codeforces.com/contest/276/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/276/C%20-%20Little%20Girl%20and%20Maximum%20Sum/solution.cpp) |
 | 368B | [Sereja and Suffixes](https://codeforces.com/contest/368/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/368/B%20-%20Sereja%20and%20Suffixes/solution.cpp) |
 | 519B | [A and B and Compilation Errors](https://codeforces.com/contest/519/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/519/B%20-%20A%20and%20B%20and%20Compilation%20Errors/solution.cpp) |
+| 816B | [Karen and Coffee](https://codeforces.com/contest/816/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/816/B%20-%20Karen%20and%20Coffee/solution.cpp) |
 | 961B | [Lecture Sleep](https://codeforces.com/contest/961/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/961/B%20-%20Lecture%20Sleep/solution.cpp) |
 | 1648A | [Weird Sum](https://codeforces.com/contest/1648/problem/A) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1648/A%20-%20Weird%20Sum/solution.cpp) |
 | 1669F | [Eating Candies](https://codeforces.com/contest/1669/problem/F) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1669/F%20-%20Eating%20Candies/solution.cpp) |
@@ -741,6 +743,7 @@
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
 | 743B | [Chloe and the sequence ](https://codeforces.com/contest/743/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/743/B%20-%20Chloe%20and%20the%20sequence%20/solution.cpp) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [GNU C11](https://github.com/ronits2407/mycfsolutions/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.c) |
+| 816B | [Karen and Coffee](https://codeforces.com/contest/816/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/816/B%20-%20Karen%20and%20Coffee/solution.cpp) |
 | 961B | [Lecture Sleep](https://codeforces.com/contest/961/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/961/B%20-%20Lecture%20Sleep/solution.cpp) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.cpp) |
 | 991C | [Candies](https://codeforces.com/contest/991/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/991/C%20-%20Candies/solution.cpp) |
