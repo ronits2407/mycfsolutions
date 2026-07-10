@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 342 | 32 |
+| 343 | 32 |
 
 ---
 
@@ -20,17 +20,17 @@
 - [combinatorics](#combinatorics) (9)
 - [communication](#communication) (3)
 - [constructive algorithms](#constructive-algorithms) (77)
-- [data structures](#data-structures) (39)
+- [data structures](#data-structures) (40)
 - [dfs and similar](#dfs-and-similar) (12)
 - [divide and conquer](#divide-and-conquer) (4)
 - [dp](#dp) (50)
 - [dsu](#dsu) (3)
 - [fft](#fft) (1)
 - [games](#games) (14)
-- [geometry](#geometry) (9)
+- [geometry](#geometry) (10)
 - [graph matchings](#graph-matchings) (3)
 - [graphs](#graphs) (10)
-- [greedy](#greedy) (151)
+- [greedy](#greedy) (152)
 - [hashing](#hashing) (4)
 - [implementation](#implementation) (113)
 - [interactive](#interactive) (7)
@@ -39,7 +39,7 @@
 - [number theory](#number-theory) (29)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (3)
-- [sortings](#sortings) (49)
+- [sortings](#sortings) (50)
 - [string suffix structures](#string-suffix-structures) (1)
 - [strings](#strings) (33)
 - [trees](#trees) (12)
@@ -364,6 +364,7 @@
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.cpp) |
 | 1919C | [Grouping Increases](https://codeforces.com/contest/1919/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1919/C%20-%20Grouping%20Increases/solution.cpp) |
 | 2027C | [Add Zeros](https://codeforces.com/contest/2027/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2027/C%20-%20Add%20Zeros/solution.cpp) |
+| 2038C | [DIY](https://codeforces.com/contest/2038/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2038/C%20-%20DIY/solution.cpp) |
 | 2046B | [Move Back at a Cost](https://codeforces.com/contest/2046/problem/B) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2046/B%20-%20Move%20Back%20at%20a%20Cost/solution.cpp) |
 | 2051E | [Best Price](https://codeforces.com/contest/2051/problem/E) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2051/E%20-%20Best%20Price/solution.cpp) |
 | 2111D | [Creating a Schedule](https://codeforces.com/contest/2111/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2111/D%20-%20Creating%20a%20Schedule/solution.cpp) |
@@ -501,6 +502,7 @@
 | 1846D | [Rudolph and Christmas Tree](https://codeforces.com/contest/1846/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1846/D%20-%20Rudolph%20and%20Christmas%20Tree/solution.cpp) |
 | 1850E | [Cardboard for Pictures](https://codeforces.com/contest/1850/problem/E) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1850/E%20-%20Cardboard%20for%20Pictures/solution.cpp) |
 | 1850G | [The Morning Star](https://codeforces.com/contest/1850/problem/G) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1850/G%20-%20The%20Morning%20Star/solution.cpp) |
+| 2038C | [DIY](https://codeforces.com/contest/2038/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2038/C%20-%20DIY/solution.cpp) |
 | 2119B | [Line Segments](https://codeforces.com/contest/2119/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2119/B%20-%20Line%20Segments/solution.cpp) |
 | 2148B | [Lasers](https://codeforces.com/contest/2148/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2148/B%20-%20Lasers/solution.cpp) |
 | 2153C | [Symmetrical Polygons](https://codeforces.com/contest/2153/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2153/C%20-%20Symmetrical%20Polygons/solution.cpp) |
@@ -583,6 +585,7 @@
 | 1999D | [Slavic's Exam](https://codeforces.com/contest/1999/problem/D) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1999/D%20-%20Slavic's%20Exam/solution.cpp) |
 | 2021B | [Maximize Mex](https://codeforces.com/contest/2021/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2021/B%20-%20Maximize%20Mex/solution.cpp) |
 | 2027C | [Add Zeros](https://codeforces.com/contest/2027/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2027/C%20-%20Add%20Zeros/solution.cpp) |
+| 2038C | [DIY](https://codeforces.com/contest/2038/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2038/C%20-%20DIY/solution.cpp) |
 | 2042C | [Competitive Fishing](https://codeforces.com/contest/2042/problem/C) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2042/C%20-%20Competitive%20Fishing/solution.cpp) |
 | 2046A | [Swap Columns and Find a Path](https://codeforces.com/contest/2046/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2046/A%20-%20Swap%20Columns%20and%20Find%20a%20Path/solution.cpp) |
 | 2046B | [Move Back at a Cost](https://codeforces.com/contest/2046/problem/B) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2046/B%20-%20Move%20Back%20at%20a%20Cost/solution.cpp) |
@@ -1041,6 +1044,7 @@
 | 1904B | [Collecting Game](https://codeforces.com/contest/1904/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1904/B%20-%20Collecting%20Game/solution.cpp) |
 | 1904C | [Array Game](https://codeforces.com/contest/1904/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1904/C%20-%20Array%20Game/solution.cpp) |
 | 1915F | [Greetings](https://codeforces.com/contest/1915/problem/F) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1915/F%20-%20Greetings/solution.cpp) |
+| 2038C | [DIY](https://codeforces.com/contest/2038/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2038/C%20-%20DIY/solution.cpp) |
 | 2046A | [Swap Columns and Find a Path](https://codeforces.com/contest/2046/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2046/A%20-%20Swap%20Columns%20and%20Find%20a%20Path/solution.cpp) |
 | 2046B | [Move Back at a Cost](https://codeforces.com/contest/2046/problem/B) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2046/B%20-%20Move%20Back%20at%20a%20Cost/solution.cpp) |
 | 2051E | [Best Price](https://codeforces.com/contest/2051/problem/E) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2051/E%20-%20Best%20Price/solution.cpp) |
