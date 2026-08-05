@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 343 | 32 |
+| 344 | 32 |
 
 ---
 
@@ -15,11 +15,11 @@
 - [*special](#special) (10)
 - [Uncategorized](#uncategorized) (3)
 - [binary search](#binary-search) (50)
-- [bitmasks](#bitmasks) (25)
-- [brute force](#brute-force) (70)
+- [bitmasks](#bitmasks) (26)
+- [brute force](#brute-force) (71)
 - [combinatorics](#combinatorics) (9)
 - [communication](#communication) (3)
-- [constructive algorithms](#constructive-algorithms) (77)
+- [constructive algorithms](#constructive-algorithms) (78)
 - [data structures](#data-structures) (40)
 - [dfs and similar](#dfs-and-similar) (12)
 - [divide and conquer](#divide-and-conquer) (4)
@@ -27,14 +27,14 @@
 - [dsu](#dsu) (3)
 - [fft](#fft) (1)
 - [games](#games) (14)
-- [geometry](#geometry) (10)
+- [geometry](#geometry) (11)
 - [graph matchings](#graph-matchings) (3)
 - [graphs](#graphs) (10)
 - [greedy](#greedy) (152)
 - [hashing](#hashing) (4)
-- [implementation](#implementation) (113)
+- [implementation](#implementation) (114)
 - [interactive](#interactive) (7)
-- [math](#math) (128)
+- [math](#math) (129)
 - [matrices](#matrices) (1)
 - [number theory](#number-theory) (29)
 - [schedules](#schedules) (1)
@@ -130,6 +130,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 467B | [Fedor and New Game](https://codeforces.com/contest/467/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/467/B%20-%20Fedor%20and%20New%20Game/solution.cpp) |
+| 581D | [Three Logos](https://codeforces.com/contest/581/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/581/D%20-%20Three%20Logos/solution.cpp) |
 | 743B | [Chloe and the sequence ](https://codeforces.com/contest/743/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/743/B%20-%20Chloe%20and%20the%20sequence%20/solution.cpp) |
 | 1097B | [Petr and a Combination Lock](https://codeforces.com/contest/1097/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1097/B%20-%20Petr%20and%20a%20Combination%20Lock/solution.cpp) |
 | 1152B | [Neko Performs Cat Furrier Transform](https://codeforces.com/contest/1152/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1152/B%20-%20Neko%20Performs%20Cat%20Furrier%20Transform/solution.cpp) |
@@ -173,6 +174,7 @@
 | 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/479/A%20-%20Expression/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.cpp) |
+| 581D | [Three Logos](https://codeforces.com/contest/581/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/581/D%20-%20Three%20Logos/solution.cpp) |
 | 1097B | [Petr and a Combination Lock](https://codeforces.com/contest/1097/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1097/B%20-%20Petr%20and%20a%20Combination%20Lock/solution.cpp) |
 | 1490C | [Sum of Cubes](https://codeforces.com/contest/1490/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1490/C%20-%20Sum%20of%20Cubes/solution.cpp) |
 | 1537E1 | [Erase and Extend (Easy Version)](https://codeforces.com/contest/1537/problem/E1) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1537/E1%20-%20Erase%20and%20Extend%20(Easy%20Version)/solution.cpp) |
@@ -257,6 +259,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 467B | [Fedor and New Game](https://codeforces.com/contest/467/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/467/B%20-%20Fedor%20and%20New%20Game/solution.cpp) |
+| 581D | [Three Logos](https://codeforces.com/contest/581/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/581/D%20-%20Three%20Logos/solution.cpp) |
 | 610B | [Vika and Squares](https://codeforces.com/contest/610/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/610/B%20-%20Vika%20and%20Squares/solution.cpp) |
 | 682A | [Alyona and Numbers](https://codeforces.com/contest/682/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/682/A%20-%20Alyona%20and%20Numbers/solution.cpp) |
 | 743B | [Chloe and the sequence ](https://codeforces.com/contest/743/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/743/B%20-%20Chloe%20and%20the%20sequence%20/solution.cpp) |
@@ -498,6 +501,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 270A | [Fancy Fence](https://codeforces.com/contest/270/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/270/A%20-%20Fancy%20Fence/solution.cpp) |
+| 581D | [Three Logos](https://codeforces.com/contest/581/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/581/D%20-%20Three%20Logos/solution.cpp) |
 | 1648A | [Weird Sum](https://codeforces.com/contest/1648/problem/A) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1648/A%20-%20Weird%20Sum/solution.cpp) |
 | 1846D | [Rudolph and Christmas Tree](https://codeforces.com/contest/1846/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1846/D%20-%20Rudolph%20and%20Christmas%20Tree/solution.cpp) |
 | 1850E | [Cardboard for Pictures](https://codeforces.com/contest/1850/problem/E) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1850/E%20-%20Cardboard%20for%20Pictures/solution.cpp) |
@@ -741,6 +745,7 @@
 | 519B | [A and B and Compilation Errors](https://codeforces.com/contest/519/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/519/B%20-%20A%20and%20B%20and%20Compilation%20Errors/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.cpp) |
+| 581D | [Three Logos](https://codeforces.com/contest/581/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/581/D%20-%20Three%20Logos/solution.cpp) |
 | 610B | [Vika and Squares](https://codeforces.com/contest/610/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/610/B%20-%20Vika%20and%20Squares/solution.cpp) |
 | 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.cpp) |
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/706/B%20-%20Interesting%20drink/solution.cpp) |
@@ -843,6 +848,7 @@
 | 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/479/A%20-%20Expression/solution.cpp) |
 | 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
+| 581D | [Three Logos](https://codeforces.com/contest/581/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/581/D%20-%20Three%20Logos/solution.cpp) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 | 682A | [Alyona and Numbers](https://codeforces.com/contest/682/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/682/A%20-%20Alyona%20and%20Numbers/solution.cpp) |
 | 1140D | [Minimum Triangulation](https://codeforces.com/contest/1140/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1140/D%20-%20Minimum%20Triangulation/solution.cpp) |
