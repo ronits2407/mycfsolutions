@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 348 | 32 |
+| 349 | 32 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (3)
 - [binary search](#binary-search) (51)
 - [bitmasks](#bitmasks) (26)
-- [brute force](#brute-force) (73)
+- [brute force](#brute-force) (74)
 - [combinatorics](#combinatorics) (9)
 - [communication](#communication) (3)
 - [constructive algorithms](#constructive-algorithms) (78)
@@ -30,7 +30,7 @@
 - [geometry](#geometry) (11)
 - [graph matchings](#graph-matchings) (3)
 - [graphs](#graphs) (10)
-- [greedy](#greedy) (155)
+- [greedy](#greedy) (156)
 - [hashing](#hashing) (4)
 - [implementation](#implementation) (117)
 - [interactive](#interactive) (7)
@@ -181,6 +181,7 @@
 | 1537E1 | [Erase and Extend (Easy Version)](https://codeforces.com/contest/1537/problem/E1) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1537/E1%20-%20Erase%20and%20Extend%20(Easy%20Version)/solution.cpp) |
 | 1709A | [Three Doors](https://codeforces.com/contest/1709/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1709/A%20-%20Three%20Doors/solution.cpp) |
 | 1761A | [Two Permutations](https://codeforces.com/contest/1761/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1761/A%20-%20Two%20Permutations/solution.cpp) |
+| 1784A | [Monsters (easy version)](https://codeforces.com/contest/1784/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1784/A%20-%20Monsters%20(easy%20version)/solution.cpp) |
 | 1791D | [Distinct Split](https://codeforces.com/contest/1791/problem/D) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1791/D%20-%20Distinct%20Split/solution.cpp) |
 | 1843E | [Tracking Segments](https://codeforces.com/contest/1843/problem/E) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1843/E%20-%20Tracking%20Segments/solution.cpp) |
 | 1847C | [Vampiric Powers, anyone?](https://codeforces.com/contest/1847/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1847/C%20-%20Vampiric%20Powers%2C%20anyone%3F/solution.cpp) |
@@ -569,6 +570,7 @@
 | 1676E | [Eating Queries](https://codeforces.com/contest/1676/problem/E) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1676/E%20-%20Eating%20Queries/solution.cpp) |
 | 1709A | [Three Doors](https://codeforces.com/contest/1709/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1709/A%20-%20Three%20Doors/solution.cpp) |
 | 1744D | [Divisibility by 2^n](https://codeforces.com/contest/1744/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1744/D%20-%20Divisibility%20by%202%5En/solution.cpp) |
+| 1784A | [Monsters (easy version)](https://codeforces.com/contest/1784/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1784/A%20-%20Monsters%20(easy%20version)/solution.cpp) |
 | 1791D | [Distinct Split](https://codeforces.com/contest/1791/problem/D) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1791/D%20-%20Distinct%20Split/solution.cpp) |
 | 1791E | [Negatives and Positives](https://codeforces.com/contest/1791/problem/E) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1791/E%20-%20Negatives%20and%20Positives/solution.cpp) |
 | 1799A | [Recent Actions](https://codeforces.com/contest/1799/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1799/A%20-%20Recent%20Actions/solution.cpp) |
