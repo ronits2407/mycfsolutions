@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 350 | 32 |
+| 351 | 32 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [*special](#special) (10)
+- [*special](#special) (11)
 - [Uncategorized](#uncategorized) (3)
 - [binary search](#binary-search) (51)
 - [bitmasks](#bitmasks) (26)
@@ -30,7 +30,7 @@
 - [geometry](#geometry) (11)
 - [graph matchings](#graph-matchings) (3)
 - [graphs](#graphs) (10)
-- [greedy](#greedy) (156)
+- [greedy](#greedy) (157)
 - [hashing](#hashing) (4)
 - [implementation](#implementation) (118)
 - [interactive](#interactive) (7)
@@ -57,6 +57,7 @@
 | 171D | [Broken checker](https://codeforces.com/contest/171/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/171/D%20-%20Broken%20checker/solution.cpp) |
 | 171E | [MYSTERIOUS LANGUAGE](https://codeforces.com/contest/171/problem/E) | 2000 | [Secret_171](https://github.com/ronits2407/mycfsolutions/blob/HEAD/171/E%20-%20MYSTERIOUS%20LANGUAGE/solution.txt) |
 | 171G | [Mysterious numbers - 2](https://codeforces.com/contest/171/problem/G) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/171/G%20-%20Mysterious%20numbers%20-%202/solution.cpp) |
+| 1346B | [Boot Camp](https://codeforces.com/contest/1346/problem/B) | 1400 | [Kotlin 2.2](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1346/B%20-%20Boot%20Camp/solution.txt) |
 | 2199C | [Minesweeper](https://codeforces.com/contest/2199/problem/C) | 1600 | [Kotlin 2.2](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2199/C%20-%20Minesweeper/solution.txt) |
 | 2214A | [Odd One Out](https://codeforces.com/contest/2214/problem/A) | Unrated | [Python 3](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2214/A%20-%20Odd%20One%20Out/solution.py) |
 | 2214B | [Are You Smiling?](https://codeforces.com/contest/2214/problem/B) | Unrated | [Python 3](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2214/B%20-%20Are%20You%20Smiling%3F/solution.py) |
@@ -560,6 +561,7 @@
 | 1294F | [Three Paths on a Tree](https://codeforces.com/contest/1294/problem/F) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1294/F%20-%20Three%20Paths%20on%20a%20Tree/solution.cpp) |
 | 1328C | [Ternary XOR](https://codeforces.com/contest/1328/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1328/C%20-%20Ternary%20XOR/solution.cpp) |
 | 1335C | [Two Teams Composing](https://codeforces.com/contest/1335/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1335/C%20-%20Two%20Teams%20Composing/solution.cpp) |
+| 1346B | [Boot Camp](https://codeforces.com/contest/1346/problem/B) | 1400 | [Kotlin 2.2](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1346/B%20-%20Boot%20Camp/solution.txt) |
 | 1360C | [Similar Pairs](https://codeforces.com/contest/1360/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1360/C%20-%20Similar%20Pairs/solution.cpp) |
 | 1366A | [Shovels and Swords](https://codeforces.com/contest/1366/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1366/A%20-%20Shovels%20and%20Swords/solution.cpp) |
 | 1418C | [Mortal Kombat Tower](https://codeforces.com/contest/1418/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1418/C%20-%20Mortal%20Kombat%20Tower/solution.cpp) |
