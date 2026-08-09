@@ -1,0 +1,36 @@
+import java.io.BufferedReader
+import java.io.InputStreamReader
+import java.util.StringTokenizer
+ 
+fun solveRonit(br: BufferedReader, sb: StringBuilder) {
+    var st = StringTokenizer(br.readLine())
+    val n = st.nextToken().toLong()
+    val k1 = st.nextToken().toLong()
+    val k2 = st.nextToken().toLong()
+    val s = br.readLine().trim()
+ 
+    var prev = 0L
+    var count = 0L
+ 
+    for (i in 0 until n.toInt()) {
+        val temp = minOf(k1, k2 - prev)
+        if (s[i] == '0') {
+            prev = 0L
+            continue
+        }
+        count += temp
+        prev = temp
+    }
+    sb.append(count).append('
+')
+}
+ 
+fun main() {
+    val br = BufferedReader(InputStreamReader(System.`in`))
+    val t = br.readLine().trim().toInt()
+    val sb = StringBuilder()
+    for (i in 1..t) {
+        solveRonit(br, sb)
+    }
+    print(sb)
+}
