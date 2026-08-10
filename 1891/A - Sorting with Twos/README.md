@@ -1,0 +1,25 @@
+<h2><a href="https://codeforces.com/contest/1891/problem/A" target="_blank" rel="noopener noreferrer">1891A — Sorting with Twos</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 800 |
+| **Language** | C++23 (GCC 14-64, msys2) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 1891A](https://codeforces.com/contest/1891/problem/A) |
+
+## Topics
+`constructive algorithms` `sortings`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">A. Sorting with Twos</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>You are given an array of integers $$$a_1, a_2, \ldots, a_n$$$. In one operation, you do the following: </p><ul> <li> Choose a non-negative integer $$$m$$$, such that $$$2^m \leq n$$$. </li><li> Subtract $$$1$$$ from $$$a_i$$$ for all integers $$$i$$$, such that $$$1 \leq i \leq 2^m$$$. </li></ul><p>Can you sort the array in non-decreasing order by performing some number (possibly zero) of operations?</p><p>An array is considered non-decreasing if $$$a_i \leq a_{i + 1}$$$ for all integers $$$i$$$ such that $$$1 \leq i \leq n - 1$$$.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line contains a single integer $$$t$$$ ($$$1 \leq t \leq 10^4$$$) — the number of test cases. The description of the test cases follows.</p><p>The first line of each test case contains a single integer $$$n$$$ ($$$1 \leq n \leq 20$$$) — the length of array $$$a$$$.</p><p>The second line of each test case contains $$$n$$$ integers $$$a_1, a_2, \ldots, a_n$$$ — the integers in array $$$a$$$ ($$$0 \leq a_i \leq 1000$$$).</p></div><div class="output-specification"><div class="section-title">Output</div><p>For each test case, output "YES" if the array can be sorted, and "NO" otherwise.</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id009756491226816048" id="id003126401271221654" class="input-output-copier">Copy</div></div><pre id="id009756491226816048"><div class="test-example-line test-example-line-even test-example-line-0">8</div><div class="test-example-line test-example-line-odd test-example-line-1">5</div><div class="test-example-line test-example-line-odd test-example-line-1">1 2 3 4 5</div><div class="test-example-line test-example-line-even test-example-line-2">5</div><div class="test-example-line test-example-line-even test-example-line-2">6 5 3 4 4</div><div class="test-example-line test-example-line-odd test-example-line-3">9</div><div class="test-example-line test-example-line-odd test-example-line-3">6 5 5 7 5 6 6 8 7</div><div class="test-example-line test-example-line-even test-example-line-4">4</div><div class="test-example-line test-example-line-even test-example-line-4">4 3 2 1</div><div class="test-example-line test-example-line-odd test-example-line-5">6</div><div class="test-example-line test-example-line-odd test-example-line-5">2 2 4 5 3 2</div><div class="test-example-line test-example-line-even test-example-line-6">8</div><div class="test-example-line test-example-line-even test-example-line-6">1 3 17 19 27 57 179 13</div><div class="test-example-line test-example-line-odd test-example-line-7">5</div><div class="test-example-line test-example-line-odd test-example-line-7">3 17 57 179 92</div><div class="test-example-line test-example-line-even test-example-line-8">10</div><div class="test-example-line test-example-line-even test-example-line-8">1 2 3 4 0 6 7 8 9 10</div></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id0030148672119349984" id="id003983330903439518" class="input-output-copier">Copy</div></div><pre id="id0030148672119349984">YES
+YES
+YES
+NO
+NO
+NO
+YES
+YES
+</pre></div></div></div><div class="note"><div class="section-title">Note</div><p>In the first test case, the array is already sorted in non-decreasing order, so we don't have to perform any operations.</p><p>In the second test case, we can choose $$$m = 1$$$ twice to get the array $$$[4, 3, 3, 4, 4]$$$. Then, we can choose $$$m = 0$$$ once and get the sorted in non-decreasing order array $$$[3, 3, 3, 4, 4]$$$.</p><p>In the third test case, we can choose $$$m = 0$$$ once and get the array $$$[5, 5, 5, 7, 5, 6, 6, 8, 7]$$$. Then, we can choose $$$m = 2$$$ twice and get the array $$$[3, 3, 3, 5, 5, 6, 6, 8, 7]$$$. After that, we can choose $$$m = 3$$$ once and get the sorted in non-decreasing order array $$$[2, 2, 2, 4, 4, 5, 5, 7, 7]$$$.</p><p>For the fourth and fifth test case, it can be shown that the array could not be sorted using these operations.</p></div>
