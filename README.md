@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 354 | 32 |
+| 355 | 32 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [brute force](#brute-force) (74)
 - [combinatorics](#combinatorics) (9)
 - [communication](#communication) (3)
-- [constructive algorithms](#constructive-algorithms) (78)
+- [constructive algorithms](#constructive-algorithms) (79)
 - [data structures](#data-structures) (41)
 - [dfs and similar](#dfs-and-similar) (12)
 - [divide and conquer](#divide-and-conquer) (4)
@@ -39,7 +39,7 @@
 - [number theory](#number-theory) (30)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (3)
-- [sortings](#sortings) (51)
+- [sortings](#sortings) (52)
 - [string suffix structures](#string-suffix-structures) (1)
 - [strings](#strings) (36)
 - [trees](#trees) (12)
@@ -286,6 +286,7 @@
 | 1846C | [Rudolf and the Another Competition](https://codeforces.com/contest/1846/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1846/C%20-%20Rudolf%20and%20the%20Another%20Competition/solution.cpp) |
 | 1846D | [Rudolph and Christmas Tree](https://codeforces.com/contest/1846/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1846/D%20-%20Rudolph%20and%20Christmas%20Tree/solution.cpp) |
 | 1864D | [Matrix Cascade](https://codeforces.com/contest/1864/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1864/D%20-%20Matrix%20Cascade/solution.cpp) |
+| 1891A | [Sorting with Twos](https://codeforces.com/contest/1891/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1891/A%20-%20Sorting%20with%20Twos/solution.cpp) |
 | 1898C | [Colorful Grid](https://codeforces.com/contest/1898/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1898/C%20-%20Colorful%20Grid/solution.cpp) |
 | 1907D | [Jumping Through Segments](https://codeforces.com/contest/1907/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1907/D%20-%20Jumping%20Through%20Segments/solution.cpp) |
 | 1909B | [Make Almost Equal With Mod](https://codeforces.com/contest/1909/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1909/B%20-%20Make%20Almost%20Equal%20With%20Mod/solution.cpp) |
@@ -1066,6 +1067,7 @@
 | 1857E | [Power of Points](https://codeforces.com/contest/1857/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1857/E%20-%20Power%20of%20Points/solution.cpp) |
 | 1873E | [Building an Aquarium](https://codeforces.com/contest/1873/problem/E) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1873/E%20-%20Building%20an%20Aquarium/solution.cpp) |
 | 1876A | [Helmets in Night Light](https://codeforces.com/contest/1876/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1876/A%20-%20Helmets%20in%20Night%20Light/solution.cpp) |
+| 1891A | [Sorting with Twos](https://codeforces.com/contest/1891/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1891/A%20-%20Sorting%20with%20Twos/solution.cpp) |
 | 1904B | [Collecting Game](https://codeforces.com/contest/1904/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1904/B%20-%20Collecting%20Game/solution.cpp) |
 | 1904C | [Array Game](https://codeforces.com/contest/1904/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1904/C%20-%20Array%20Game/solution.cpp) |
 | 1915F | [Greetings](https://codeforces.com/contest/1915/problem/F) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1915/F%20-%20Greetings/solution.cpp) |
