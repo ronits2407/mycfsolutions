@@ -55,7 +55,6 @@ void solve_ronit(int tc)
     cin >> n;
     vi a(n);
     ask(a, n);
-    map<int, set<int>> graph;
     vpii weightarr(n, {0, 0});
     for (int i = 0; i < n-1; i++)
     {
@@ -63,8 +62,6 @@ void solve_ronit(int tc)
         cin >> u >> v;
         u--;
         v--;
-        graph[u].insert(v);
-        graph[v].insert(u);
         weightarr[u].second++;
         weightarr[v].second++;
     }
