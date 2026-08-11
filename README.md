@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 357 | 32 |
+| 358 | 32 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [brute force](#brute-force) (74)
 - [combinatorics](#combinatorics) (9)
 - [communication](#communication) (3)
-- [constructive algorithms](#constructive-algorithms) (79)
+- [constructive algorithms](#constructive-algorithms) (80)
 - [data structures](#data-structures) (42)
 - [dfs and similar](#dfs-and-similar) (12)
 - [divide and conquer](#divide-and-conquer) (4)
@@ -34,7 +34,7 @@
 - [hashing](#hashing) (4)
 - [implementation](#implementation) (119)
 - [interactive](#interactive) (7)
-- [math](#math) (129)
+- [math](#math) (130)
 - [matrices](#matrices) (1)
 - [number theory](#number-theory) (30)
 - [schedules](#schedules) (1)
@@ -274,6 +274,7 @@
 | 776B | [Sherlock and his girlfriend](https://codeforces.com/contest/776/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/776/B%20-%20Sherlock%20and%20his%20girlfriend/solution.cpp) |
 | 1152B | [Neko Performs Cat Furrier Transform](https://codeforces.com/contest/1152/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1152/B%20-%20Neko%20Performs%20Cat%20Furrier%20Transform/solution.cpp) |
 | 1360C | [Similar Pairs](https://codeforces.com/contest/1360/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1360/C%20-%20Similar%20Pairs/solution.cpp) |
+| 1725H | [Hot Black Hot White](https://codeforces.com/contest/1725/problem/H) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1725/H%20-%20Hot%20Black%20Hot%20White/solution.cpp) |
 | 1741B | [Funny Permutation](https://codeforces.com/contest/1741/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1741/B%20-%20Funny%20Permutation/solution.cpp) |
 | 1761A | [Two Permutations](https://codeforces.com/contest/1761/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1761/A%20-%20Two%20Permutations/solution.cpp) |
 | 1790E | [Vlad and a Pair of Numbers](https://codeforces.com/contest/1790/problem/E) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1790/E%20-%20Vlad%20and%20a%20Pair%20of%20Numbers/solution.cpp) |
@@ -888,6 +889,7 @@
 | 1560B | [Who's Opposite?](https://codeforces.com/contest/1560/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1560/B%20-%20Who's%20Opposite%3F/solution.cpp) |
 | 1648A | [Weird Sum](https://codeforces.com/contest/1648/problem/A) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1648/A%20-%20Weird%20Sum/solution.cpp) |
 | 1709A | [Three Doors](https://codeforces.com/contest/1709/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1709/A%20-%20Three%20Doors/solution.cpp) |
+| 1725H | [Hot Black Hot White](https://codeforces.com/contest/1725/problem/H) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1725/H%20-%20Hot%20Black%20Hot%20White/solution.cpp) |
 | 1741B | [Funny Permutation](https://codeforces.com/contest/1741/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1741/B%20-%20Funny%20Permutation/solution.cpp) |
 | 1744D | [Divisibility by 2^n](https://codeforces.com/contest/1744/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1744/D%20-%20Divisibility%20by%202%5En/solution.cpp) |
 | 1776L | [Controllers](https://codeforces.com/contest/1776/problem/L) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1776/L%20-%20Controllers/solution.cpp) |
