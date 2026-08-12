@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 360 | 32 |
+| 361 | 32 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (11)
-- [Uncategorized](#uncategorized) (7)
+- [Uncategorized](#uncategorized) (8)
 - [binary search](#binary-search) (51)
 - [bitmasks](#bitmasks) (26)
 - [brute force](#brute-force) (74)
@@ -67,6 +67,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1912A | [Accumulator Apex](https://codeforces.com/contest/1912/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1912/A%20-%20Accumulator%20Apex/solution.cpp) |
 | 2166C | [Cyclic Merging](https://codeforces.com/contest/2166/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2166/C%20-%20Cyclic%20Merging/solution.cpp) |
 | 2188C | [Restricted Sorting](https://codeforces.com/contest/2188/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2188/C%20-%20Restricted%20Sorting/solution.cpp) |
 | 2191C | [Sorting Game](https://codeforces.com/contest/2191/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2191/C%20-%20Sorting%20Game/solution.cpp) |
