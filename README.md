@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 362 | 32 |
+| 363 | 32 |
 
 ---
 
@@ -19,18 +19,18 @@
 - [brute force](#brute-force) (74)
 - [combinatorics](#combinatorics) (9)
 - [communication](#communication) (3)
-- [constructive algorithms](#constructive-algorithms) (81)
+- [constructive algorithms](#constructive-algorithms) (82)
 - [data structures](#data-structures) (42)
 - [dfs and similar](#dfs-and-similar) (13)
 - [divide and conquer](#divide-and-conquer) (4)
 - [dp](#dp) (50)
 - [dsu](#dsu) (3)
 - [fft](#fft) (1)
-- [games](#games) (14)
+- [games](#games) (15)
 - [geometry](#geometry) (11)
 - [graph matchings](#graph-matchings) (3)
 - [graphs](#graphs) (10)
-- [greedy](#greedy) (160)
+- [greedy](#greedy) (161)
 - [hashing](#hashing) (4)
 - [implementation](#implementation) (119)
 - [interactive](#interactive) (7)
@@ -39,7 +39,7 @@
 - [number theory](#number-theory) (30)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (3)
-- [sortings](#sortings) (53)
+- [sortings](#sortings) (54)
 - [string suffix structures](#string-suffix-structures) (1)
 - [strings](#strings) (38)
 - [trees](#trees) (14)
@@ -278,6 +278,7 @@
 | 1325C | [Ehab and Path-etic MEXs](https://codeforces.com/contest/1325/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1325/C%20-%20Ehab%20and%20Path-etic%20MEXs/solution.cpp) |
 | 1360C | [Similar Pairs](https://codeforces.com/contest/1360/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1360/C%20-%20Similar%20Pairs/solution.cpp) |
 | 1725H | [Hot Black Hot White](https://codeforces.com/contest/1725/problem/H) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1725/H%20-%20Hot%20Black%20Hot%20White/solution.cpp) |
+| 1740C | [Bricks and Bags](https://codeforces.com/contest/1740/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1740/C%20-%20Bricks%20and%20Bags/solution.cpp) |
 | 1741B | [Funny Permutation](https://codeforces.com/contest/1741/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1741/B%20-%20Funny%20Permutation/solution.cpp) |
 | 1761A | [Two Permutations](https://codeforces.com/contest/1761/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1761/A%20-%20Two%20Permutations/solution.cpp) |
 | 1790E | [Vlad and a Pair of Numbers](https://codeforces.com/contest/1790/problem/E) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1790/E%20-%20Vlad%20and%20a%20Pair%20of%20Numbers/solution.cpp) |
@@ -497,6 +498,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1740C | [Bricks and Bags](https://codeforces.com/contest/1740/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1740/C%20-%20Bricks%20and%20Bags/solution.cpp) |
 | 1860C | [Game on Permutation](https://codeforces.com/contest/1860/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1860/C%20-%20Game%20on%20Permutation/solution.cpp) |
 | 1873H | [Mad City](https://codeforces.com/contest/1873/problem/H) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1873/H%20-%20Mad%20City/solution.cpp) |
 | 1968D | [Permutation Game](https://codeforces.com/contest/1968/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1968/D%20-%20Permutation%20Game/solution.cpp) |
@@ -584,6 +586,7 @@
 | 1669F | [Eating Candies](https://codeforces.com/contest/1669/problem/F) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1669/F%20-%20Eating%20Candies/solution.cpp) |
 | 1676E | [Eating Queries](https://codeforces.com/contest/1676/problem/E) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1676/E%20-%20Eating%20Queries/solution.cpp) |
 | 1709A | [Three Doors](https://codeforces.com/contest/1709/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1709/A%20-%20Three%20Doors/solution.cpp) |
+| 1740C | [Bricks and Bags](https://codeforces.com/contest/1740/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1740/C%20-%20Bricks%20and%20Bags/solution.cpp) |
 | 1744D | [Divisibility by 2^n](https://codeforces.com/contest/1744/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1744/D%20-%20Divisibility%20by%202%5En/solution.cpp) |
 | 1784A | [Monsters (easy version)](https://codeforces.com/contest/1784/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1784/A%20-%20Monsters%20(easy%20version)/solution.cpp) |
 | 1791D | [Distinct Split](https://codeforces.com/contest/1791/problem/D) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1791/D%20-%20Distinct%20Split/solution.cpp) |
@@ -1070,6 +1073,7 @@
 | 1466D | [13th Labour of Heracles](https://codeforces.com/contest/1466/problem/D) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1466/D%20-%2013th%20Labour%20of%20Heracles/solution.cpp) |
 | 1648A | [Weird Sum](https://codeforces.com/contest/1648/problem/A) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1648/A%20-%20Weird%20Sum/solution.cpp) |
 | 1676E | [Eating Queries](https://codeforces.com/contest/1676/problem/E) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1676/E%20-%20Eating%20Queries/solution.cpp) |
+| 1740C | [Bricks and Bags](https://codeforces.com/contest/1740/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1740/C%20-%20Bricks%20and%20Bags/solution.cpp) |
 | 1741D | [Masha and a Beautiful Tree](https://codeforces.com/contest/1741/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1741/D%20-%20Masha%20and%20a%20Beautiful%20Tree/solution.cpp) |
 | 1744D | [Divisibility by 2^n](https://codeforces.com/contest/1744/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1744/D%20-%20Divisibility%20by%202%5En/solution.cpp) |
 | 1791E | [Negatives and Positives](https://codeforces.com/contest/1791/problem/E) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1791/E%20-%20Negatives%20and%20Positives/solution.cpp) |
