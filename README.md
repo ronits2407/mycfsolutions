@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 363 | 32 |
+| 364 | 32 |
 
 ---
 
@@ -27,7 +27,7 @@
 - [dsu](#dsu) (3)
 - [fft](#fft) (1)
 - [games](#games) (15)
-- [geometry](#geometry) (11)
+- [geometry](#geometry) (12)
 - [graph matchings](#graph-matchings) (3)
 - [graphs](#graphs) (10)
 - [greedy](#greedy) (161)
@@ -529,6 +529,7 @@
 | 2148B | [Lasers](https://codeforces.com/contest/2148/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2148/B%20-%20Lasers/solution.cpp) |
 | 2153C | [Symmetrical Polygons](https://codeforces.com/contest/2153/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2153/C%20-%20Symmetrical%20Polygons/solution.cpp) |
 | 2167E | [khba Loves to Sleep!](https://codeforces.com/contest/2167/problem/E) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2167/E%20-%20khba%20Loves%20to%20Sleep!/solution.cpp) |
+| 2172I | [Birthday](https://codeforces.com/contest/2172/problem/I) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2172/I%20-%20Birthday/solution.cpp) |
 
 ### graph matchings
 
