@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 364 | 32 |
+| 365 | 32 |
 
 ---
 
@@ -34,7 +34,7 @@
 - [hashing](#hashing) (4)
 - [implementation](#implementation) (119)
 - [interactive](#interactive) (7)
-- [math](#math) (130)
+- [math](#math) (131)
 - [matrices](#matrices) (1)
 - [number theory](#number-theory) (30)
 - [schedules](#schedules) (1)
@@ -920,6 +920,7 @@
 | 1857F | [Sum and Product](https://codeforces.com/contest/1857/problem/F) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1857/F%20-%20Sum%20and%20Product/solution.cpp) |
 | 1860B | [Fancy Coins](https://codeforces.com/contest/1860/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1860/B%20-%20Fancy%20Coins/solution.cpp) |
 | 1864D | [Matrix Cascade](https://codeforces.com/contest/1864/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1864/D%20-%20Matrix%20Cascade/solution.cpp) |
+| 1895A | [Treasure Chest](https://codeforces.com/contest/1895/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1895/A%20-%20Treasure%20Chest/solution.cpp) |
 | 1909B | [Make Almost Equal With Mod](https://codeforces.com/contest/1909/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1909/B%20-%20Make%20Almost%20Equal%20With%20Mod/solution.cpp) |
 | 1914C | [Quests](https://codeforces.com/contest/1914/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1914/C%20-%20Quests/solution.cpp) |
 | 1915E | [Romantic Glasses](https://codeforces.com/contest/1915/problem/E) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1915/E%20-%20Romantic%20Glasses/solution.cpp) |
