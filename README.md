@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 369 | 32 |
+| 370 | 32 |
 
 ---
 
@@ -23,16 +23,16 @@
 - [data structures](#data-structures) (42)
 - [dfs and similar](#dfs-and-similar) (13)
 - [divide and conquer](#divide-and-conquer) (4)
-- [dp](#dp) (50)
+- [dp](#dp) (51)
 - [dsu](#dsu) (3)
 - [fft](#fft) (1)
-- [games](#games) (15)
+- [games](#games) (16)
 - [geometry](#geometry) (12)
 - [graph matchings](#graph-matchings) (3)
 - [graphs](#graphs) (10)
-- [greedy](#greedy) (164)
+- [greedy](#greedy) (165)
 - [hashing](#hashing) (4)
-- [implementation](#implementation) (119)
+- [implementation](#implementation) (120)
 - [interactive](#interactive) (7)
 - [math](#math) (133)
 - [matrices](#matrices) (1)
@@ -460,6 +460,7 @@
 | 1904B | [Collecting Game](https://codeforces.com/contest/1904/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1904/B%20-%20Collecting%20Game/solution.cpp) |
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.cpp) |
 | 1919C | [Grouping Increases](https://codeforces.com/contest/1919/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1919/C%20-%20Grouping%20Increases/solution.cpp) |
+| 2005E1 | [Subtangle Game (Easy Version)](https://codeforces.com/contest/2005/problem/E1) | 2100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2005/E1%20-%20Subtangle%20Game%20(Easy%20Version)/solution.cpp) |
 | 2027C | [Add Zeros](https://codeforces.com/contest/2027/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2027/C%20-%20Add%20Zeros/solution.cpp) |
 | 2053C | [Bewitching Stargazer](https://codeforces.com/contest/2053/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2053/C%20-%20Bewitching%20Stargazer/solution.cpp) |
 | 2147C | [Rabbits](https://codeforces.com/contest/2147/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2147/C%20-%20Rabbits/solution.cpp) |
@@ -504,6 +505,7 @@
 | 1860C | [Game on Permutation](https://codeforces.com/contest/1860/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1860/C%20-%20Game%20on%20Permutation/solution.cpp) |
 | 1873H | [Mad City](https://codeforces.com/contest/1873/problem/H) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1873/H%20-%20Mad%20City/solution.cpp) |
 | 1968D | [Permutation Game](https://codeforces.com/contest/1968/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1968/D%20-%20Permutation%20Game/solution.cpp) |
+| 2005E1 | [Subtangle Game (Easy Version)](https://codeforces.com/contest/2005/problem/E1) | 2100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2005/E1%20-%20Subtangle%20Game%20(Easy%20Version)/solution.cpp) |
 | 2060C | [Game of Mathletes](https://codeforces.com/contest/2060/problem/C) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2060/C%20-%20Game%20of%20Mathletes/solution.cpp) |
 | 2127B | [Hamiiid, Haaamid... Hamid?](https://codeforces.com/contest/2127/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2127/B%20-%20Hamiiid%2C%20Haaamid...%20Hamid%3F/solution.cpp) |
 | 2161A | [Round Trip](https://codeforces.com/contest/2161/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2161/A%20-%20Round%20Trip/solution.cpp) |
@@ -619,6 +621,7 @@
 | 1975A | [Bazoka and Mocha's Array](https://codeforces.com/contest/1975/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1975/A%20-%20Bazoka%20and%20Mocha's%20Array/solution.cpp) |
 | 1986E | [Beautiful Array](https://codeforces.com/contest/1986/problem/E) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1986/E%20-%20Beautiful%20Array/solution.cpp) |
 | 1999D | [Slavic's Exam](https://codeforces.com/contest/1999/problem/D) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1999/D%20-%20Slavic's%20Exam/solution.cpp) |
+| 2005E1 | [Subtangle Game (Easy Version)](https://codeforces.com/contest/2005/problem/E1) | 2100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2005/E1%20-%20Subtangle%20Game%20(Easy%20Version)/solution.cpp) |
 | 2021B | [Maximize Mex](https://codeforces.com/contest/2021/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2021/B%20-%20Maximize%20Mex/solution.cpp) |
 | 2027C | [Add Zeros](https://codeforces.com/contest/2027/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2027/C%20-%20Add%20Zeros/solution.cpp) |
 | 2038C | [DIY](https://codeforces.com/contest/2038/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2038/C%20-%20DIY/solution.cpp) |
@@ -811,6 +814,7 @@
 | 1971B | [Different String](https://codeforces.com/contest/1971/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1971/B%20-%20Different%20String/solution.cpp) |
 | 1975A | [Bazoka and Mocha's Array](https://codeforces.com/contest/1975/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1975/A%20-%20Bazoka%20and%20Mocha's%20Array/solution.cpp) |
 | 1999D | [Slavic's Exam](https://codeforces.com/contest/1999/problem/D) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1999/D%20-%20Slavic's%20Exam/solution.cpp) |
+| 2005E1 | [Subtangle Game (Easy Version)](https://codeforces.com/contest/2005/problem/E1) | 2100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2005/E1%20-%20Subtangle%20Game%20(Easy%20Version)/solution.cpp) |
 | 2009C | [The Legend of Freya the Frog](https://codeforces.com/contest/2009/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2009/C%20-%20The%20Legend%20of%20Freya%20the%20Frog/solution.cpp) |
 | 2085B | [Serval and Final MEX](https://codeforces.com/contest/2085/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2085/B%20-%20Serval%20and%20Final%20MEX/solution.cpp) |
 | 2092B | [Lady Bug](https://codeforces.com/contest/2092/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2092/B%20-%20Lady%20Bug/solution.cpp) |
