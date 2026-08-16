@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 371 | 32 |
+| 372 | 32 |
 
 ---
 
@@ -19,9 +19,9 @@
 - [brute force](#brute-force) (74)
 - [combinatorics](#combinatorics) (9)
 - [communication](#communication) (3)
-- [constructive algorithms](#constructive-algorithms) (84)
+- [constructive algorithms](#constructive-algorithms) (85)
 - [data structures](#data-structures) (42)
-- [dfs and similar](#dfs-and-similar) (13)
+- [dfs and similar](#dfs-and-similar) (14)
 - [divide and conquer](#divide-and-conquer) (4)
 - [dp](#dp) (51)
 - [dsu](#dsu) (3)
@@ -34,7 +34,7 @@
 - [hashing](#hashing) (4)
 - [implementation](#implementation) (120)
 - [interactive](#interactive) (7)
-- [math](#math) (134)
+- [math](#math) (135)
 - [matrices](#matrices) (1)
 - [number theory](#number-theory) (31)
 - [schedules](#schedules) (1)
@@ -277,6 +277,7 @@
 | 776B | [Sherlock and his girlfriend](https://codeforces.com/contest/776/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/776/B%20-%20Sherlock%20and%20his%20girlfriend/solution.cpp) |
 | 1152B | [Neko Performs Cat Furrier Transform](https://codeforces.com/contest/1152/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1152/B%20-%20Neko%20Performs%20Cat%20Furrier%20Transform/solution.cpp) |
 | 1325C | [Ehab and Path-etic MEXs](https://codeforces.com/contest/1325/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1325/C%20-%20Ehab%20and%20Path-etic%20MEXs/solution.cpp) |
+| 1352F | [Binary String Reconstruction](https://codeforces.com/contest/1352/problem/F) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1352/F%20-%20Binary%20String%20Reconstruction/solution.cpp) |
 | 1360C | [Similar Pairs](https://codeforces.com/contest/1360/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1360/C%20-%20Similar%20Pairs/solution.cpp) |
 | 1715A | [Crossmarket](https://codeforces.com/contest/1715/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1715/A%20-%20Crossmarket/solution.cpp) |
 | 1725H | [Hot Black Hot White](https://codeforces.com/contest/1725/problem/H) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1725/H%20-%20Hot%20Black%20Hot%20White/solution.cpp) |
@@ -409,6 +410,7 @@
 | 1152B | [Neko Performs Cat Furrier Transform](https://codeforces.com/contest/1152/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1152/B%20-%20Neko%20Performs%20Cat%20Furrier%20Transform/solution.cpp) |
 | 1294F | [Three Paths on a Tree](https://codeforces.com/contest/1294/problem/F) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1294/F%20-%20Three%20Paths%20on%20a%20Tree/solution.cpp) |
 | 1325C | [Ehab and Path-etic MEXs](https://codeforces.com/contest/1325/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1325/C%20-%20Ehab%20and%20Path-etic%20MEXs/solution.cpp) |
+| 1352F | [Binary String Reconstruction](https://codeforces.com/contest/1352/problem/F) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1352/F%20-%20Binary%20String%20Reconstruction/solution.cpp) |
 | 1741D | [Masha and a Beautiful Tree](https://codeforces.com/contest/1741/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1741/D%20-%20Masha%20and%20a%20Beautiful%20Tree/solution.cpp) |
 | 1873H | [Mad City](https://codeforces.com/contest/1873/problem/H) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1873/H%20-%20Mad%20City/solution.cpp) |
 | 1900C | [Anji's Binary Tree](https://codeforces.com/contest/1900/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1900/C%20-%20Anji's%20Binary%20Tree/solution.cpp) |
@@ -899,6 +901,7 @@
 | 1152B | [Neko Performs Cat Furrier Transform](https://codeforces.com/contest/1152/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1152/B%20-%20Neko%20Performs%20Cat%20Furrier%20Transform/solution.cpp) |
 | 1201C | [Maximum Median](https://codeforces.com/contest/1201/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1201/C%20-%20Maximum%20Median/solution.cpp) |
 | 1327A | [Sum of Odd Integers](https://codeforces.com/contest/1327/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1327/A%20-%20Sum%20of%20Odd%20Integers/solution.cpp) |
+| 1352F | [Binary String Reconstruction](https://codeforces.com/contest/1352/problem/F) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1352/F%20-%20Binary%20String%20Reconstruction/solution.cpp) |
 | 1366A | [Shovels and Swords](https://codeforces.com/contest/1366/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1366/A%20-%20Shovels%20and%20Swords/solution.cpp) |
 | 1374B | [Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1374/B%20-%20Multiply%20by%202%2C%20divide%20by%206/solution.cpp) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
