@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 370 | 32 |
+| 371 | 32 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [brute force](#brute-force) (74)
 - [combinatorics](#combinatorics) (9)
 - [communication](#communication) (3)
-- [constructive algorithms](#constructive-algorithms) (83)
+- [constructive algorithms](#constructive-algorithms) (84)
 - [data structures](#data-structures) (42)
 - [dfs and similar](#dfs-and-similar) (13)
 - [divide and conquer](#divide-and-conquer) (4)
@@ -30,11 +30,11 @@
 - [geometry](#geometry) (12)
 - [graph matchings](#graph-matchings) (3)
 - [graphs](#graphs) (10)
-- [greedy](#greedy) (165)
+- [greedy](#greedy) (166)
 - [hashing](#hashing) (4)
 - [implementation](#implementation) (120)
 - [interactive](#interactive) (7)
-- [math](#math) (133)
+- [math](#math) (134)
 - [matrices](#matrices) (1)
 - [number theory](#number-theory) (31)
 - [schedules](#schedules) (1)
@@ -278,6 +278,7 @@
 | 1152B | [Neko Performs Cat Furrier Transform](https://codeforces.com/contest/1152/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1152/B%20-%20Neko%20Performs%20Cat%20Furrier%20Transform/solution.cpp) |
 | 1325C | [Ehab and Path-etic MEXs](https://codeforces.com/contest/1325/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1325/C%20-%20Ehab%20and%20Path-etic%20MEXs/solution.cpp) |
 | 1360C | [Similar Pairs](https://codeforces.com/contest/1360/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1360/C%20-%20Similar%20Pairs/solution.cpp) |
+| 1715A | [Crossmarket](https://codeforces.com/contest/1715/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1715/A%20-%20Crossmarket/solution.cpp) |
 | 1725H | [Hot Black Hot White](https://codeforces.com/contest/1725/problem/H) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1725/H%20-%20Hot%20Black%20Hot%20White/solution.cpp) |
 | 1740C | [Bricks and Bags](https://codeforces.com/contest/1740/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1740/C%20-%20Bricks%20and%20Bags/solution.cpp) |
 | 1741B | [Funny Permutation](https://codeforces.com/contest/1741/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1741/B%20-%20Funny%20Permutation/solution.cpp) |
@@ -592,6 +593,7 @@
 | 1669F | [Eating Candies](https://codeforces.com/contest/1669/problem/F) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1669/F%20-%20Eating%20Candies/solution.cpp) |
 | 1676E | [Eating Queries](https://codeforces.com/contest/1676/problem/E) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1676/E%20-%20Eating%20Queries/solution.cpp) |
 | 1709A | [Three Doors](https://codeforces.com/contest/1709/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1709/A%20-%20Three%20Doors/solution.cpp) |
+| 1715A | [Crossmarket](https://codeforces.com/contest/1715/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1715/A%20-%20Crossmarket/solution.cpp) |
 | 1721C | [Min-Max Array Transformation](https://codeforces.com/contest/1721/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1721/C%20-%20Min-Max%20Array%20Transformation/solution.cpp) |
 | 1740C | [Bricks and Bags](https://codeforces.com/contest/1740/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1740/C%20-%20Bricks%20and%20Bags/solution.cpp) |
 | 1744D | [Divisibility by 2^n](https://codeforces.com/contest/1744/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1744/D%20-%20Divisibility%20by%202%5En/solution.cpp) |
@@ -908,6 +910,7 @@
 | 1560B | [Who's Opposite?](https://codeforces.com/contest/1560/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1560/B%20-%20Who's%20Opposite%3F/solution.cpp) |
 | 1648A | [Weird Sum](https://codeforces.com/contest/1648/problem/A) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1648/A%20-%20Weird%20Sum/solution.cpp) |
 | 1709A | [Three Doors](https://codeforces.com/contest/1709/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1709/A%20-%20Three%20Doors/solution.cpp) |
+| 1715A | [Crossmarket](https://codeforces.com/contest/1715/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1715/A%20-%20Crossmarket/solution.cpp) |
 | 1725H | [Hot Black Hot White](https://codeforces.com/contest/1725/problem/H) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1725/H%20-%20Hot%20Black%20Hot%20White/solution.cpp) |
 | 1741B | [Funny Permutation](https://codeforces.com/contest/1741/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1741/B%20-%20Funny%20Permutation/solution.cpp) |
 | 1744D | [Divisibility by 2^n](https://codeforces.com/contest/1744/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1744/D%20-%20Divisibility%20by%202%5En/solution.cpp) |
