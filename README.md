@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 372 | 32 |
+| 373 | 32 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [brute force](#brute-force) (74)
 - [combinatorics](#combinatorics) (9)
 - [communication](#communication) (3)
-- [constructive algorithms](#constructive-algorithms) (85)
+- [constructive algorithms](#constructive-algorithms) (86)
 - [data structures](#data-structures) (42)
 - [dfs and similar](#dfs-and-similar) (14)
 - [divide and conquer](#divide-and-conquer) (4)
@@ -283,6 +283,7 @@
 | 1725H | [Hot Black Hot White](https://codeforces.com/contest/1725/problem/H) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1725/H%20-%20Hot%20Black%20Hot%20White/solution.cpp) |
 | 1740C | [Bricks and Bags](https://codeforces.com/contest/1740/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1740/C%20-%20Bricks%20and%20Bags/solution.cpp) |
 | 1741B | [Funny Permutation](https://codeforces.com/contest/1741/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1741/B%20-%20Funny%20Permutation/solution.cpp) |
+| 1747B | [BAN BAN](https://codeforces.com/contest/1747/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1747/B%20-%20BAN%20BAN/solution.cpp) |
 | 1761A | [Two Permutations](https://codeforces.com/contest/1761/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1761/A%20-%20Two%20Permutations/solution.cpp) |
 | 1779B | [MKnez's ConstructiveForces Task](https://codeforces.com/contest/1779/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1779/B%20-%20MKnez's%20ConstructiveForces%20Task/solution.cpp) |
 | 1790E | [Vlad and a Pair of Numbers](https://codeforces.com/contest/1790/problem/E) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1790/E%20-%20Vlad%20and%20a%20Pair%20of%20Numbers/solution.cpp) |
