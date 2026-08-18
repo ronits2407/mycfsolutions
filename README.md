@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 373 | 32 |
+| 374 | 32 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (8)
 - [binary search](#binary-search) (52)
 - [bitmasks](#bitmasks) (26)
-- [brute force](#brute-force) (74)
+- [brute force](#brute-force) (75)
 - [combinatorics](#combinatorics) (9)
 - [communication](#communication) (3)
 - [constructive algorithms](#constructive-algorithms) (86)
@@ -41,7 +41,7 @@
 - [shortest paths](#shortest-paths) (3)
 - [sortings](#sortings) (55)
 - [string suffix structures](#string-suffix-structures) (1)
-- [strings](#strings) (38)
+- [strings](#strings) (39)
 - [trees](#trees) (14)
 - [two pointers](#two-pointers) (23)
 
@@ -242,6 +242,7 @@
 | 2225D | [Exceptional Segments](https://codeforces.com/contest/2225/problem/D) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2225/D%20-%20Exceptional%20Segments/solution.cpp) |
 | 2227D | [Palindromex](https://codeforces.com/contest/2227/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2227/D%20-%20Palindromex/solution.cpp) |
 | 2228C1 | [Cirno and Number (Easy Version)](https://codeforces.com/contest/2228/problem/C1) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2228/C1%20-%20Cirno%20and%20Number%20(Easy%20Version)/solution.cpp) |
+| 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.cpp) |
 
 ### combinatorics
 
@@ -1183,6 +1184,7 @@
 | 2192A | [String Rotation Game](https://codeforces.com/contest/2192/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2192/A%20-%20String%20Rotation%20Game/solution.cpp) |
 | 2192B | [Flipping Binary String](https://codeforces.com/contest/2192/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2192/B%20-%20Flipping%20Binary%20String/solution.cpp) |
 | 2214B | [Are You Smiling?](https://codeforces.com/contest/2214/problem/B) | Unrated | [Python 3](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2214/B%20-%20Are%20You%20Smiling%3F/solution.py) |
+| 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.cpp) |
 
 ### trees
 
