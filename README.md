@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 374 | 32 |
+| 375 | 32 |
 
 ---
 
@@ -20,7 +20,7 @@
 - [combinatorics](#combinatorics) (9)
 - [communication](#communication) (3)
 - [constructive algorithms](#constructive-algorithms) (86)
-- [data structures](#data-structures) (42)
+- [data structures](#data-structures) (43)
 - [dfs and similar](#dfs-and-similar) (14)
 - [divide and conquer](#divide-and-conquer) (4)
 - [dp](#dp) (51)
@@ -32,7 +32,7 @@
 - [graphs](#graphs) (10)
 - [greedy](#greedy) (166)
 - [hashing](#hashing) (4)
-- [implementation](#implementation) (120)
+- [implementation](#implementation) (121)
 - [interactive](#interactive) (7)
 - [math](#math) (135)
 - [matrices](#matrices) (1)
@@ -41,7 +41,7 @@
 - [shortest paths](#shortest-paths) (3)
 - [sortings](#sortings) (55)
 - [string suffix structures](#string-suffix-structures) (1)
-- [strings](#strings) (39)
+- [strings](#strings) (40)
 - [trees](#trees) (14)
 - [two pointers](#two-pointers) (23)
 
@@ -383,6 +383,7 @@
 | 1864D | [Matrix Cascade](https://codeforces.com/contest/1864/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1864/D%20-%20Matrix%20Cascade/solution.cpp) |
 | 1872E | [Data Structures Fan](https://codeforces.com/contest/1872/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1872/E%20-%20Data%20Structures%20Fan/solution.cpp) |
 | 1904C | [Array Game](https://codeforces.com/contest/1904/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1904/C%20-%20Array%20Game/solution.cpp) |
+| 1907B | [YetnotherrokenKeoard](https://codeforces.com/contest/1907/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1907/B%20-%20YetnotherrokenKeoard/solution.cpp) |
 | 1915E | [Romantic Glasses](https://codeforces.com/contest/1915/problem/E) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1915/E%20-%20Romantic%20Glasses/solution.cpp) |
 | 1915F | [Greetings](https://codeforces.com/contest/1915/problem/F) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1915/F%20-%20Greetings/solution.cpp) |
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.cpp) |
@@ -815,6 +816,7 @@
 | 1850E | [Cardboard for Pictures](https://codeforces.com/contest/1850/problem/E) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1850/E%20-%20Cardboard%20for%20Pictures/solution.cpp) |
 | 1850F | [We Were Both Children](https://codeforces.com/contest/1850/problem/F) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1850/F%20-%20We%20Were%20Both%20Children/solution.cpp) |
 | 1850G | [The Morning Star](https://codeforces.com/contest/1850/problem/G) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1850/G%20-%20The%20Morning%20Star/solution.cpp) |
+| 1907B | [YetnotherrokenKeoard](https://codeforces.com/contest/1907/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1907/B%20-%20YetnotherrokenKeoard/solution.cpp) |
 | 1950E | [Nearly Shortest Repeating Substring](https://codeforces.com/contest/1950/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1950/E%20-%20Nearly%20Shortest%20Repeating%20Substring/solution.cpp) |
 | 1950F | [0, 1, 2, Tree!](https://codeforces.com/contest/1950/problem/F) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1950/F%20-%200%2C%201%2C%202%2C%20Tree!/solution.cpp) |
 | 1971B | [Different String](https://codeforces.com/contest/1971/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1971/B%20-%20Different%20String/solution.cpp) |
@@ -1167,6 +1169,7 @@
 | 1791D | [Distinct Split](https://codeforces.com/contest/1791/problem/D) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1791/D%20-%20Distinct%20Split/solution.cpp) |
 | 1800D | [Remove Two Letters](https://codeforces.com/contest/1800/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1800/D%20-%20Remove%20Two%20Letters/solution.cpp) |
 | 1845C | [Strong Password](https://codeforces.com/contest/1845/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1845/C%20-%20Strong%20Password/solution.cpp) |
+| 1907B | [YetnotherrokenKeoard](https://codeforces.com/contest/1907/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1907/B%20-%20YetnotherrokenKeoard/solution.cpp) |
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.cpp) |
 | 1950E | [Nearly Shortest Repeating Substring](https://codeforces.com/contest/1950/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1950/E%20-%20Nearly%20Shortest%20Repeating%20Substring/solution.cpp) |
 | 1971B | [Different String](https://codeforces.com/contest/1971/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1971/B%20-%20Different%20String/solution.cpp) |
