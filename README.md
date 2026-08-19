@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 375 | 32 |
+| 377 | 32 |
 
 ---
 
@@ -19,31 +19,31 @@
 - [brute force](#brute-force) (75)
 - [combinatorics](#combinatorics) (9)
 - [communication](#communication) (3)
-- [constructive algorithms](#constructive-algorithms) (86)
+- [constructive algorithms](#constructive-algorithms) (87)
 - [data structures](#data-structures) (43)
 - [dfs and similar](#dfs-and-similar) (14)
 - [divide and conquer](#divide-and-conquer) (4)
-- [dp](#dp) (51)
-- [dsu](#dsu) (3)
+- [dp](#dp) (52)
+- [dsu](#dsu) (4)
 - [fft](#fft) (1)
 - [games](#games) (16)
 - [geometry](#geometry) (12)
 - [graph matchings](#graph-matchings) (3)
-- [graphs](#graphs) (10)
-- [greedy](#greedy) (166)
+- [graphs](#graphs) (11)
+- [greedy](#greedy) (167)
 - [hashing](#hashing) (4)
 - [implementation](#implementation) (121)
 - [interactive](#interactive) (7)
-- [math](#math) (135)
+- [math](#math) (136)
 - [matrices](#matrices) (1)
 - [number theory](#number-theory) (31)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (3)
-- [sortings](#sortings) (55)
+- [sortings](#sortings) (56)
 - [string suffix structures](#string-suffix-structures) (1)
-- [strings](#strings) (40)
+- [strings](#strings) (41)
 - [trees](#trees) (14)
-- [two pointers](#two-pointers) (23)
+- [two pointers](#two-pointers) (24)
 
 ---
 
@@ -307,6 +307,7 @@
 | 2092B | [Lady Bug](https://codeforces.com/contest/2092/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2092/B%20-%20Lady%20Bug/solution.cpp) |
 | 2092C | [Asuna and the Mosquitoes](https://codeforces.com/contest/2092/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2092/C%20-%20Asuna%20and%20the%20Mosquitoes/solution.cpp) |
 | 2111D | [Creating a Schedule](https://codeforces.com/contest/2111/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2111/D%20-%20Creating%20a%20Schedule/solution.cpp) |
+| 2129A | [Double Perspective](https://codeforces.com/contest/2129/problem/A) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2129/A%20-%20Double%20Perspective/solution.cpp) |
 | 2129C1 | [Interactive RBS (Easy Version)](https://codeforces.com/contest/2129/problem/C1) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2129/C1%20-%20Interactive%20RBS%20(Easy%20Version)/solution.cpp) |
 | 2137A | [Collatz Conjecture](https://codeforces.com/contest/2137/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2137/A%20-%20Collatz%20Conjecture/solution.cpp) |
 | 2140B | [Another Divisibility Problem](https://codeforces.com/contest/2140/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2140/B%20-%20Another%20Divisibility%20Problem/solution.cpp) |
@@ -469,6 +470,7 @@
 | 2005E1 | [Subtangle Game (Easy Version)](https://codeforces.com/contest/2005/problem/E1) | 2100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2005/E1%20-%20Subtangle%20Game%20(Easy%20Version)/solution.cpp) |
 | 2027C | [Add Zeros](https://codeforces.com/contest/2027/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2027/C%20-%20Add%20Zeros/solution.cpp) |
 | 2053C | [Bewitching Stargazer](https://codeforces.com/contest/2053/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2053/C%20-%20Bewitching%20Stargazer/solution.cpp) |
+| 2129A | [Double Perspective](https://codeforces.com/contest/2129/problem/A) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2129/A%20-%20Double%20Perspective/solution.cpp) |
 | 2147C | [Rabbits](https://codeforces.com/contest/2147/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2147/C%20-%20Rabbits/solution.cpp) |
 | 2169C | [Range Operation](https://codeforces.com/contest/2169/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2169/C%20-%20Range%20Operation/solution.cpp) |
 | 2171D | [Rae Taylor and Trees (easy version)](https://codeforces.com/contest/2171/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2171/D%20-%20Rae%20Taylor%20and%20Trees%20(easy%20version)/solution.cpp) |
@@ -494,6 +496,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1873H | [Mad City](https://codeforces.com/contest/1873/problem/H) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1873/H%20-%20Mad%20City/solution.cpp) |
+| 2129A | [Double Perspective](https://codeforces.com/contest/2129/problem/A) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2129/A%20-%20Double%20Perspective/solution.cpp) |
 | 2171D | [Rae Taylor and Trees (easy version)](https://codeforces.com/contest/2171/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2171/D%20-%20Rae%20Taylor%20and%20Trees%20(easy%20version)/solution.cpp) |
 | 2171F | [Rae Taylor and Trees (hard version)](https://codeforces.com/contest/2171/problem/F) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2171/F%20-%20Rae%20Taylor%20and%20Trees%20(hard%20version)/solution.cpp) |
 
@@ -560,6 +563,7 @@
 | 1873H | [Mad City](https://codeforces.com/contest/1873/problem/H) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1873/H%20-%20Mad%20City/solution.cpp) |
 | 1968D | [Permutation Game](https://codeforces.com/contest/1968/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1968/D%20-%20Permutation%20Game/solution.cpp) |
 | 2027C | [Add Zeros](https://codeforces.com/contest/2027/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2027/C%20-%20Add%20Zeros/solution.cpp) |
+| 2129A | [Double Perspective](https://codeforces.com/contest/2129/problem/A) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2129/A%20-%20Double%20Perspective/solution.cpp) |
 | 2172M | [Maximum Distance To Port](https://codeforces.com/contest/2172/problem/M) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2172/M%20-%20Maximum%20Distance%20To%20Port/solution.cpp) |
 | 2184C | [Huge Pile](https://codeforces.com/contest/2184/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2184/C%20-%20Huge%20Pile/solution.cpp) |
 | 2204D | [Alternating Path](https://codeforces.com/contest/2204/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2204/D%20-%20Alternating%20Path/solution.cpp) |
@@ -646,6 +650,7 @@
 | 2119B | [Line Segments](https://codeforces.com/contest/2119/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2119/B%20-%20Line%20Segments/solution.cpp) |
 | 2121C | [Those Who Are With Us](https://codeforces.com/contest/2121/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2121/C%20-%20Those%20Who%20Are%20With%20Us/solution.cpp) |
 | 2127B | [Hamiiid, Haaamid... Hamid?](https://codeforces.com/contest/2127/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2127/B%20-%20Hamiiid%2C%20Haaamid...%20Hamid%3F/solution.cpp) |
+| 2129A | [Double Perspective](https://codeforces.com/contest/2129/problem/A) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2129/A%20-%20Double%20Perspective/solution.cpp) |
 | 2146D1 | [Max Sum OR (Easy Version)](https://codeforces.com/contest/2146/problem/D1) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2146/D1%20-%20Max%20Sum%20OR%20(Easy%20Version)/solution.cpp) |
 | 2147A | [Shortest Increasing Path](https://codeforces.com/contest/2147/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2147/A%20-%20Shortest%20Increasing%20Path/solution.cpp) |
 | 2147C | [Rabbits](https://codeforces.com/contest/2147/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2147/C%20-%20Rabbits/solution.cpp) |
@@ -926,6 +931,7 @@
 | 1799A | [Recent Actions](https://codeforces.com/contest/1799/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1799/A%20-%20Recent%20Actions/solution.cpp) |
 | 1809C | [Sum on Subarrays](https://codeforces.com/contest/1809/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1809/C%20-%20Sum%20on%20Subarrays/solution.cpp) |
 | 1814A | [Coins](https://codeforces.com/contest/1814/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1814/A%20-%20Coins/solution.cpp) |
+| 1820B | [JoJo's Incredible Adventures](https://codeforces.com/contest/1820/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1820/B%20-%20JoJo's%20Incredible%20Adventures/solution.cpp) |
 | 1829H | [Don't Blame Me](https://codeforces.com/contest/1829/problem/H) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1829/H%20-%20Don't%20Blame%20Me/solution.cpp) |
 | 1834A | [Unit Array](https://codeforces.com/contest/1834/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1834/A%20-%20Unit%20Array/solution.cpp) |
 | 1837A | [Grasshopper on a Line](https://codeforces.com/contest/1837/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1837/A%20-%20Grasshopper%20on%20a%20Line/solution.cpp) |
@@ -1119,6 +1125,7 @@
 | 2051E | [Best Price](https://codeforces.com/contest/2051/problem/E) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2051/E%20-%20Best%20Price/solution.cpp) |
 | 2060C | [Game of Mathletes](https://codeforces.com/contest/2060/problem/C) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2060/C%20-%20Game%20of%20Mathletes/solution.cpp) |
 | 2111D | [Creating a Schedule](https://codeforces.com/contest/2111/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2111/D%20-%20Creating%20a%20Schedule/solution.cpp) |
+| 2129A | [Double Perspective](https://codeforces.com/contest/2129/problem/A) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2129/A%20-%20Double%20Perspective/solution.cpp) |
 | 2153C | [Symmetrical Polygons](https://codeforces.com/contest/2153/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2153/C%20-%20Symmetrical%20Polygons/solution.cpp) |
 | 2161C | [Loyalty](https://codeforces.com/contest/2161/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2161/C%20-%20Loyalty/solution.cpp) |
 | 2163A | [Souvlaki VS. Kalamaki](https://codeforces.com/contest/2163/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2163/A%20-%20Souvlaki%20VS.%20Kalamaki/solution.cpp) |
@@ -1168,6 +1175,7 @@
 | 1537E1 | [Erase and Extend (Easy Version)](https://codeforces.com/contest/1537/problem/E1) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1537/E1%20-%20Erase%20and%20Extend%20(Easy%20Version)/solution.cpp) |
 | 1791D | [Distinct Split](https://codeforces.com/contest/1791/problem/D) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1791/D%20-%20Distinct%20Split/solution.cpp) |
 | 1800D | [Remove Two Letters](https://codeforces.com/contest/1800/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1800/D%20-%20Remove%20Two%20Letters/solution.cpp) |
+| 1820B | [JoJo's Incredible Adventures](https://codeforces.com/contest/1820/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1820/B%20-%20JoJo's%20Incredible%20Adventures/solution.cpp) |
 | 1845C | [Strong Password](https://codeforces.com/contest/1845/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1845/C%20-%20Strong%20Password/solution.cpp) |
 | 1907B | [YetnotherrokenKeoard](https://codeforces.com/contest/1907/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1907/B%20-%20YetnotherrokenKeoard/solution.cpp) |
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.cpp) |
@@ -1218,6 +1226,7 @@
 | 1669F | [Eating Candies](https://codeforces.com/contest/1669/problem/F) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1669/F%20-%20Eating%20Candies/solution.cpp) |
 | 1690D | [Black and White Stripe](https://codeforces.com/contest/1690/problem/D) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1690/D%20-%20Black%20and%20White%20Stripe/solution.cpp) |
 | 1721C | [Min-Max Array Transformation](https://codeforces.com/contest/1721/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1721/C%20-%20Min-Max%20Array%20Transformation/solution.cpp) |
+| 1820B | [JoJo's Incredible Adventures](https://codeforces.com/contest/1820/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1820/B%20-%20JoJo's%20Incredible%20Adventures/solution.cpp) |
 | 1843E | [Tracking Segments](https://codeforces.com/contest/1843/problem/E) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1843/E%20-%20Tracking%20Segments/solution.cpp) |
 | 1904B | [Collecting Game](https://codeforces.com/contest/1904/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1904/B%20-%20Collecting%20Game/solution.cpp) |
 | 1904C | [Array Game](https://codeforces.com/contest/1904/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1904/C%20-%20Array%20Game/solution.cpp) |
