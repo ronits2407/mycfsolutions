@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 379 | 32 |
+| 380 | 32 |
 
 ---
 
@@ -19,21 +19,21 @@
 - [brute force](#brute-force) (75)
 - [combinatorics](#combinatorics) (9)
 - [communication](#communication) (3)
-- [constructive algorithms](#constructive-algorithms) (87)
+- [constructive algorithms](#constructive-algorithms) (88)
 - [data structures](#data-structures) (45)
-- [dfs and similar](#dfs-and-similar) (14)
+- [dfs and similar](#dfs-and-similar) (15)
 - [divide and conquer](#divide-and-conquer) (4)
 - [dp](#dp) (52)
 - [dsu](#dsu) (4)
 - [fft](#fft) (1)
-- [games](#games) (16)
+- [games](#games) (17)
 - [geometry](#geometry) (12)
 - [graph matchings](#graph-matchings) (3)
-- [graphs](#graphs) (11)
-- [greedy](#greedy) (169)
+- [graphs](#graphs) (12)
+- [greedy](#greedy) (170)
 - [hashing](#hashing) (4)
 - [implementation](#implementation) (122)
-- [interactive](#interactive) (7)
+- [interactive](#interactive) (8)
 - [math](#math) (137)
 - [matrices](#matrices) (1)
 - [number theory](#number-theory) (31)
@@ -301,6 +301,7 @@
 | 1898C | [Colorful Grid](https://codeforces.com/contest/1898/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1898/C%20-%20Colorful%20Grid/solution.cpp) |
 | 1907D | [Jumping Through Segments](https://codeforces.com/contest/1907/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1907/D%20-%20Jumping%20Through%20Segments/solution.cpp) |
 | 1909B | [Make Almost Equal With Mod](https://codeforces.com/contest/1909/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1909/B%20-%20Make%20Almost%20Equal%20With%20Mod/solution.cpp) |
+| 1991E | [Coloring Game](https://codeforces.com/contest/1991/problem/E) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1991/E%20-%20Coloring%20Game/solution.cpp) |
 | 2055C | [The Trail](https://codeforces.com/contest/2055/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2055/C%20-%20The%20Trail/solution.cpp) |
 | 2056C | [Palindromic Subsequences](https://codeforces.com/contest/2056/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2056/C%20-%20Palindromic%20Subsequences/solution.cpp) |
 | 2085B | [Serval and Final MEX](https://codeforces.com/contest/2085/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2085/B%20-%20Serval%20and%20Final%20MEX/solution.cpp) |
@@ -421,6 +422,7 @@
 | 1873H | [Mad City](https://codeforces.com/contest/1873/problem/H) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1873/H%20-%20Mad%20City/solution.cpp) |
 | 1900C | [Anji's Binary Tree](https://codeforces.com/contest/1900/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1900/C%20-%20Anji's%20Binary%20Tree/solution.cpp) |
 | 1968D | [Permutation Game](https://codeforces.com/contest/1968/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1968/D%20-%20Permutation%20Game/solution.cpp) |
+| 1991E | [Coloring Game](https://codeforces.com/contest/1991/problem/E) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1991/E%20-%20Coloring%20Game/solution.cpp) |
 | 2027C | [Add Zeros](https://codeforces.com/contest/2027/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2027/C%20-%20Add%20Zeros/solution.cpp) |
 | 2183D1 | [Tree Coloring (Easy Version)](https://codeforces.com/contest/2183/problem/D1) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2183/D1%20-%20Tree%20Coloring%20(Easy%20Version)/solution.cpp) |
 | 2184C | [Huge Pile](https://codeforces.com/contest/2184/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2184/C%20-%20Huge%20Pile/solution.cpp) |
@@ -516,6 +518,7 @@
 | 1860C | [Game on Permutation](https://codeforces.com/contest/1860/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1860/C%20-%20Game%20on%20Permutation/solution.cpp) |
 | 1873H | [Mad City](https://codeforces.com/contest/1873/problem/H) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1873/H%20-%20Mad%20City/solution.cpp) |
 | 1968D | [Permutation Game](https://codeforces.com/contest/1968/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1968/D%20-%20Permutation%20Game/solution.cpp) |
+| 1991E | [Coloring Game](https://codeforces.com/contest/1991/problem/E) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1991/E%20-%20Coloring%20Game/solution.cpp) |
 | 2005E1 | [Subtangle Game (Easy Version)](https://codeforces.com/contest/2005/problem/E1) | 2100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2005/E1%20-%20Subtangle%20Game%20(Easy%20Version)/solution.cpp) |
 | 2060C | [Game of Mathletes](https://codeforces.com/contest/2060/problem/C) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2060/C%20-%20Game%20of%20Mathletes/solution.cpp) |
 | 2127B | [Hamiiid, Haaamid... Hamid?](https://codeforces.com/contest/2127/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2127/B%20-%20Hamiiid%2C%20Haaamid...%20Hamid%3F/solution.cpp) |
@@ -564,6 +567,7 @@
 | 1741D | [Masha and a Beautiful Tree](https://codeforces.com/contest/1741/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1741/D%20-%20Masha%20and%20a%20Beautiful%20Tree/solution.cpp) |
 | 1873H | [Mad City](https://codeforces.com/contest/1873/problem/H) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1873/H%20-%20Mad%20City/solution.cpp) |
 | 1968D | [Permutation Game](https://codeforces.com/contest/1968/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1968/D%20-%20Permutation%20Game/solution.cpp) |
+| 1991E | [Coloring Game](https://codeforces.com/contest/1991/problem/E) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1991/E%20-%20Coloring%20Game/solution.cpp) |
 | 2027C | [Add Zeros](https://codeforces.com/contest/2027/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2027/C%20-%20Add%20Zeros/solution.cpp) |
 | 2129A | [Double Perspective](https://codeforces.com/contest/2129/problem/A) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2129/A%20-%20Double%20Perspective/solution.cpp) |
 | 2172M | [Maximum Distance To Port](https://codeforces.com/contest/2172/problem/M) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2172/M%20-%20Maximum%20Distance%20To%20Port/solution.cpp) |
@@ -635,6 +639,7 @@
 | 1975A | [Bazoka and Mocha's Array](https://codeforces.com/contest/1975/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1975/A%20-%20Bazoka%20and%20Mocha's%20Array/solution.cpp) |
 | 1978D | [Elections](https://codeforces.com/contest/1978/problem/D) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1978/D%20-%20Elections/solution.cpp) |
 | 1986E | [Beautiful Array](https://codeforces.com/contest/1986/problem/E) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1986/E%20-%20Beautiful%20Array/solution.cpp) |
+| 1991E | [Coloring Game](https://codeforces.com/contest/1991/problem/E) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1991/E%20-%20Coloring%20Game/solution.cpp) |
 | 1999D | [Slavic's Exam](https://codeforces.com/contest/1999/problem/D) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1999/D%20-%20Slavic's%20Exam/solution.cpp) |
 | 2005E1 | [Subtangle Game (Easy Version)](https://codeforces.com/contest/2005/problem/E1) | 2100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2005/E1%20-%20Subtangle%20Game%20(Easy%20Version)/solution.cpp) |
 | 2021B | [Maximize Mex](https://codeforces.com/contest/2021/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2021/B%20-%20Maximize%20Mex/solution.cpp) |
@@ -885,6 +890,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1546B | [AquaMoon and Stolen String](https://codeforces.com/contest/1546/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1546/B%20-%20AquaMoon%20and%20Stolen%20String/solution.cpp) |
+| 1991E | [Coloring Game](https://codeforces.com/contest/1991/problem/E) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1991/E%20-%20Coloring%20Game/solution.cpp) |
 | 2129C1 | [Interactive RBS (Easy Version)](https://codeforces.com/contest/2129/problem/C1) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2129/C1%20-%20Interactive%20RBS%20(Easy%20Version)/solution.cpp) |
 | 2168A1 | [Encode and Decode (Easy Version)](https://codeforces.com/contest/2168/problem/A1) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2168/A1%20-%20Encode%20and%20Decode%20(Easy%20Version)/solution.cpp) |
 | 2168A2 | [Encode and Decode (Hard Version)](https://codeforces.com/contest/2168/problem/A2) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2168/A2%20-%20Encode%20and%20Decode%20(Hard%20Version)/solution.cpp) |
