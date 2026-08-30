@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 381 | 32 |
+| 382 | 32 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [brute force](#brute-force) (75)
 - [combinatorics](#combinatorics) (9)
 - [communication](#communication) (3)
-- [constructive algorithms](#constructive-algorithms) (88)
+- [constructive algorithms](#constructive-algorithms) (89)
 - [data structures](#data-structures) (45)
 - [dfs and similar](#dfs-and-similar) (15)
 - [divide and conquer](#divide-and-conquer) (4)
@@ -30,9 +30,9 @@
 - [geometry](#geometry) (12)
 - [graph matchings](#graph-matchings) (3)
 - [graphs](#graphs) (12)
-- [greedy](#greedy) (171)
+- [greedy](#greedy) (172)
 - [hashing](#hashing) (4)
-- [implementation](#implementation) (122)
+- [implementation](#implementation) (123)
 - [interactive](#interactive) (8)
 - [math](#math) (137)
 - [matrices](#matrices) (1)
@@ -302,6 +302,7 @@
 | 1898C | [Colorful Grid](https://codeforces.com/contest/1898/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1898/C%20-%20Colorful%20Grid/solution.cpp) |
 | 1907D | [Jumping Through Segments](https://codeforces.com/contest/1907/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1907/D%20-%20Jumping%20Through%20Segments/solution.cpp) |
 | 1909B | [Make Almost Equal With Mod](https://codeforces.com/contest/1909/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1909/B%20-%20Make%20Almost%20Equal%20With%20Mod/solution.cpp) |
+| 1974D | [Ingenuity-2](https://codeforces.com/contest/1974/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1974/D%20-%20Ingenuity-2/solution.cpp) |
 | 1991E | [Coloring Game](https://codeforces.com/contest/1991/problem/E) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1991/E%20-%20Coloring%20Game/solution.cpp) |
 | 2055C | [The Trail](https://codeforces.com/contest/2055/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2055/C%20-%20The%20Trail/solution.cpp) |
 | 2056C | [Palindromic Subsequences](https://codeforces.com/contest/2056/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/2056/C%20-%20Palindromic%20Subsequences/solution.cpp) |
@@ -638,6 +639,7 @@
 | 1950F | [0, 1, 2, Tree!](https://codeforces.com/contest/1950/problem/F) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1950/F%20-%200%2C%201%2C%202%2C%20Tree!/solution.cpp) |
 | 1951B | [Battle Cows](https://codeforces.com/contest/1951/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1951/B%20-%20Battle%20Cows/solution.cpp) |
 | 1968D | [Permutation Game](https://codeforces.com/contest/1968/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1968/D%20-%20Permutation%20Game/solution.cpp) |
+| 1974D | [Ingenuity-2](https://codeforces.com/contest/1974/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1974/D%20-%20Ingenuity-2/solution.cpp) |
 | 1975A | [Bazoka and Mocha's Array](https://codeforces.com/contest/1975/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1975/A%20-%20Bazoka%20and%20Mocha's%20Array/solution.cpp) |
 | 1978D | [Elections](https://codeforces.com/contest/1978/problem/D) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1978/D%20-%20Elections/solution.cpp) |
 | 1986E | [Beautiful Array](https://codeforces.com/contest/1986/problem/E) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1986/E%20-%20Beautiful%20Array/solution.cpp) |
@@ -836,6 +838,7 @@
 | 1950E | [Nearly Shortest Repeating Substring](https://codeforces.com/contest/1950/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1950/E%20-%20Nearly%20Shortest%20Repeating%20Substring/solution.cpp) |
 | 1950F | [0, 1, 2, Tree!](https://codeforces.com/contest/1950/problem/F) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1950/F%20-%200%2C%201%2C%202%2C%20Tree!/solution.cpp) |
 | 1971B | [Different String](https://codeforces.com/contest/1971/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1971/B%20-%20Different%20String/solution.cpp) |
+| 1974D | [Ingenuity-2](https://codeforces.com/contest/1974/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1974/D%20-%20Ingenuity-2/solution.cpp) |
 | 1975A | [Bazoka and Mocha's Array](https://codeforces.com/contest/1975/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1975/A%20-%20Bazoka%20and%20Mocha's%20Array/solution.cpp) |
 | 1978D | [Elections](https://codeforces.com/contest/1978/problem/D) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1978/D%20-%20Elections/solution.cpp) |
 | 1999D | [Slavic's Exam](https://codeforces.com/contest/1999/problem/D) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ronits2407/mycfsolutions/blob/HEAD/1999/D%20-%20Slavic's%20Exam/solution.cpp) |
